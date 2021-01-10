@@ -1,15 +1,15 @@
 area_type,availability,location,size,society,total_sqft,bath,balcony,other_costs,price
 Super built-up  Area,19-Dec,Electronic City Phase II,2 BHK,Coomee ,1056,2,1,custom 2.0L reg 1.76L misc 3.7L,39.07
-Plot  Area,Ready To Move,Chikka Tirupathi,4 Bedroom,Theanmp,2600,5,3,custom 2.4L reg 5.4L misc 2.1L,120
-Built-up  Area,Ready To Move,Uttarahalli,3 BHK,,1440,2,3,custom 4.7L reg 2.79L misc 3.5L,62
-Super built-up  Area,Ready To Move,Lingadheeranahalli,3 BHK,Soiewre,1521,3,1,custom 2.5L reg 4.28L misc 1.6L,95
+Plot  Area,Ready To Move,Chikka Tirupathi,4 Bedroom,Theanmp,2600,5,3,custom 2.4L reg 5.4L,120
+Built-up  Area,Ready To Move,Uttarahalli,3 BHK,,1440,2,3,reg 2.79L misc 3.5L,62
+Super built-up  Area,Ready To Move,Lingadheeranahalli,3 BHK,Soiewre,1521,3,1,custom 2.5L reg 4.28L pd 1.34L misc 1.6L ,95
 Super built-up  Area,Ready To Move,Kothanur,2 BHK,,1200,2,1,custom 5.6L reg 2.3L misc 2.4L,51
 Super built-up  Area,Ready To Move,Whitefield,2 BHK,DuenaTa,1170,2,1,custom 1.6L reg 1.71L misc 3.9L,38
 Super built-up  Area,18-May,Old Airport Road,4 BHK,Jaades ,2732,4,,custom 4.1L reg 9.18L misc 2.1L,204
 Super built-up  Area,Ready To Move,Rajaji Nagar,4 BHK,Brway G,3300,4,,custom 5.0L reg 27L misc 2.7L,600
 Super built-up  Area,Ready To Move,Marathahalli,3 BHK,,1310,3,1,custom 4.5L reg 2.85L misc 3.0L,63.25
-Plot  Area,Ready To Move,Gandhi Bazar,6 Bedroom,,1020,6,,custom 3.6L reg 16.65L misc 2.1L,370
-Super built-up  Area,18-Feb,Whitefield,3 BHK,,1800,2,2,custom 5.6L reg 3.15L misc 2.6L,70
+Plot  Area,Ready To Move,Gandhi Bazar,6 Bedroom,,1020,6,,custom 3.6L reg 16.65L,370
+Super built-up  Area,18-Feb,Whitefield,3 BHK,,1800,2,2,reg 3.15L misc 2.6L,70
 Plot  Area,Ready To Move,Whitefield,4 Bedroom,Prrry M,2785,5,3,custom 4.6L reg 13.28L misc 1.2L,295
 Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,Shncyes,1000,2,1,custom 4.8L reg 1.71L misc 1.5L,38
 Built-up  Area,Ready To Move,Gottigere,2 BHK,,1100,2,2,custom 3.8L reg 1.8L misc 3.3L,40
@@ -23,7 +23,7 @@ Built-up  Area,Ready To Move,Kengeri,1 BHK,,600,1,1,custom 4.0L reg 0.68L misc 2
 Super built-up  Area,19-Dec,Binny Pete,3 BHK,She 2rk,1755,3,1,custom 1.8L reg 5.49L misc 3.2L,122
 Plot  Area,Ready To Move,Thanisandra,4 Bedroom,Soitya ,2800,5,2,custom 1.6L reg 17.1L misc 2.0L,380
 Super built-up  Area,Ready To Move,Bellandur,3 BHK,,1767,3,1,custom 1.8L reg 4.64L misc 2.6L,103
-Super built-up  Area,18-Nov, Thanisandra,1 RK,Bhe 2ko,510,1,0,custom 2.7L reg 1.14L misc 1.3L,25.25
+Super built-up  Area,18-Nov, Thanisandra,1 RK,Bhe 2ko,510,1,0,reg 1.14L misc 1.3L,25.25
 Super built-up  Area,18-May,Mangammanapalya,3 BHK,,1250,3,2,custom 4.4L reg 2.52L misc 1.5L,56
 Super built-up  Area,Ready To Move,Electronic City,2 BHK,Itelaa ,660,1,1,custom 2.9L reg 1.04L misc 2.0L,23.1
 Built-up  Area,20-Dec,Whitefield,3 BHK,,1610,3,2,custom 4.9L reg 3.65L misc 1.7L,81
