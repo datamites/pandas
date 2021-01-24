@@ -1,0 +1,21 @@
+IP,Time,URL,Staus
+10.128.2.1,15/Feb/2018:03:10:38,GET /home.php HTTP/1.1,302
+10.128.2.1,15/Feb/2018:03:10:38,GET /login.php HTTP/1.1,200
+10.128.2.1,15/Feb/2018:03:10:39,GET /css/bootstrap.min.css HTTP/1.1,200
+10.131.0.1,15/Feb/2018:03:10:39,GET /css/font-awesome.min.css HTTP/1.1,200
+10.130.2.1,15/Feb/2018:03:10:39,GET /css/normalize.css HTTP/1.1,200
+10.128.2.1,15/Feb/2018:03:10:39,GET /css/main.css HTTP/1.1,200
+10.131.0.1,15/Feb/2018:03:10:39,GET /css/style.css HTTP/1.1,200
+10.130.2.1,15/Feb/2018:03:10:39,GET /js/vendor/modernizr-2.8.3.min.js HTTP/1.1,200
+10.130.2.1,15/Feb/2018:03:10:39,GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1,200
+10.131.0.1,15/Feb/2018:03:10:39,GET /bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1,200
+10.131.0.1,15/Feb/2018:03:10:41,GET /fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1,200
+10.130.2.1,15/Feb/2018:03:10:42,GET /img/ruet.png HTTP/1.1,200
+10.130.2.1,15/Feb/2018:03:10:42,GET / HTTP/1.1,302
+10.130.2.1,15/Feb/2018:13:22:04,GET /login.php HTTP/1.1,200
+10.128.2.1,15/Feb/2018:17:06:12,GET / HTTP/1.1,302
+10.128.2.1,15/Feb/2018:17:06:12,GET /login.php HTTP/1.1,200
+10.128.2.1,15/Feb/2018:17:06:12,GET /img/ruet.png HTTP/1.1,200
+10.128.2.1,15/Feb/2018:22:19:51,GET /robots.txt HTTP/1.1,404
+10.128.2.1,15/Feb/2018:22:19:55,GET / HTTP/1.1,302
+10.130.2.1,15/Feb/2018:22:19:59,GET /login.php HTTP/1.1,200
